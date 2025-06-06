@@ -1,6 +1,7 @@
 # CyberPote
 
-Petit projet contenant un assistant cyber minimal.
+Petit projet contenant un assistant cyber permettant de verifier
+rapidement quelques points de securite systeme.
 
 ## Lancer l'assistant
 
@@ -8,6 +9,10 @@ Petit projet contenant un assistant cyber minimal.
 ./assistant_cyber.py
 ```
 
-L'assistant affiche un menu interactif permettant notamment de
-visualiser les ports ouverts et d'afficher quelques conseils de
-securite.
+L'assistant affiche un menu interactif proposant plusieurs outils :
+
+- visualiser les ports ouverts
+- consulter des conseils de securite
+- verifier le statut du pare-feu
+- lister les mises a jour disponibles via APT
+- afficher les dernieres connexions
