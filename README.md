@@ -1,32 +1,31 @@
-# 🛡️ CyberPote - Projet Cybersécurité
+# CyberPote
 
-> Ressources et outils pour la cybersécurité
+CyberPote est un depot de travail orienté cybersécurité.
+Il sert a centraliser des ressources, de la documentation et des outils simples autour de la veille, de la pratique et de l'apprentissage.
 
-🔗 **[GitHub](https://github.com/HAAMZA7/CyberPote)**
+## Positionnement
 
-## ✨ Fonctionnalités
+- base de notes et de ressources cyber
+- point d'entree pour des scripts et supports techniques
+- depot evolutif, amené a s'etoffer avec le temps
 
-- 🔐 Ressources cybersécurité
-- 📚 Documentation et guides
-- 🛠️ Outils et scripts
+## Contenu
 
-## 🛠️ Stack Technique
+Le repo est pensé pour accueillir progressivement :
 
-- Python
-- Bash
-- Documentation Markdown
+- des ressources de veille et de reference
+- des guides pratiques
+- des scripts utilitaires
+- de la documentation orientée blue team et offensive security
 
-## 🚀 Installation
+## Usage
 
 ```bash
-# Cloner le repo
 git clone https://github.com/HAAMZA7/CyberPote.git
+cd CyberPote
 ```
 
-## 📄 Licence
+## Auteur
 
-© 2025 Hamza DJOUDI - Tous droits réservés.
-
----
-
-Made with ❤️ by [Hamza DJOUDI](https://djoudi.dev)
+- Site : [djoudi.dev](https://djoudi.dev)
+- GitHub : [HAAMZA7](https://github.com/HAAMZA7)
